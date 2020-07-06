@@ -1,0 +1,4 @@
+<svg class="background">
+  <text id="demotext" x="50%" y="50%+15"/>
+  <text id="phoneText" x="50%" y="60%+15">Waiting...</text> 
+</svg>

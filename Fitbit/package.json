@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "bacdaa2b-e889-4bff-af30-0e605eabaf33",
+    "appType": "app",
+    "appDisplayName": "NanoSample",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#8bc34a",
+    "requestedPermissions": [
+      "access_internet",
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "NanoSample"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}
